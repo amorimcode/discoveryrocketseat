@@ -1,0 +1,3 @@
+[submodule "devfinance"]
+	path = devfinance
+	url = https://github.com/amorimcode/devfinance
